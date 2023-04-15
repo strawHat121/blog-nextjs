@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Blog
+
+My personal blogging website where all of my blogs written in Markdown will be stored.
